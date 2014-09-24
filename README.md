@@ -4,7 +4,7 @@ xjtuanaWeb
 Intro
 ==========
 
-This repository includes files that XjtuANA WEB needs. Ganerally, this project is powered by THINKPHP, a famous free open source PHP frame. For its full edition or originals, please visit https://github.com/liu21st/thinkphp.
+This repository includes files that XjtuANA WEB needs. This project is powered by THINKPHP, a famous free open source PHP frame. For its full edition or originals, please visit https://github.com/liu21st/thinkphp.
 
 
 For Members of XJTUANA
